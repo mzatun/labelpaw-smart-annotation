@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# PyTorch / YOLO 模型文件（大文件，不纳入版本管理）
+*.pt
+*.pth
+*.weights
+*.onnx
+*.engine
+runs/
+dataset/
+output_3_masks.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 资产文件（如含大模型权重，取消下行注释）
+# assets/
