@@ -371,3 +371,13 @@ If you use this software in your research, please cite as follows:
   license = {AGPL-3.0}
 }
 ```
+---
+
+## 🏷️ 推荐 GitHub Topics（提升搜索曝光）
+
+> 进入本仓库 **Settings → Topics**（或右侧 About 栏点 ⚙️ 编辑），把下面这行关键词整体粘进去即可一键设置：
+>
+> `computer-vision, object-detection, yolo, sam, annotation, pyqt, deep-learning, dataset, labeling, image-segmentation`
+>
+> <small>这些词覆盖 GIS / 遥感 / 教学 / AI 方向的高频搜索词，来自对同类高曝光仓库的检索整理。</small>
+
